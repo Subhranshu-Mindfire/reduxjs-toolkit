@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Subhranshu-Mindfire/reduxjs-toolkit/issues"
   },
-  "homepage": "https://github.com/Subhranshu-Mindfire/reduxjs-toolkit#readme"
+  "homepage": "https://github.com/Subhranshu-Mindfire/reduxjs-toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1"
+  }
 }
