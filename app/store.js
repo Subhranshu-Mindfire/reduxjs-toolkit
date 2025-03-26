@@ -6,7 +6,7 @@ const store = configureStore({
   reducer:{
     cake: cakeReducer,
     icecream: icecreamReducer
-  }
+  },
 })
 
 module.exports = store
